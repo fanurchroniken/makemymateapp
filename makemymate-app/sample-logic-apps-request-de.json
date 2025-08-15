@@ -1,0 +1,67 @@
+{
+  "quizAnswers": [
+    {
+      "questionId": 1,
+      "answer": "Feinde zu Liebenden",
+      "timestamp": "2025-01-27T10:30:00.000Z"
+    },
+    {
+      "questionId": 2,
+      "answer": "Dunkel und Mysteriös",
+      "timestamp": "2025-01-27T10:30:05.000Z"
+    },
+    {
+      "questionId": 3,
+      "answer": "Beschützend und Besitzergreifend",
+      "timestamp": "2025-01-27T10:30:10.000Z"
+    },
+    {
+      "questionId": 4,
+      "answer": "Groß und Athletisch",
+      "timestamp": "2025-01-27T10:30:15.000Z"
+    },
+    {
+      "questionId": 5,
+      "answer": "Dunkles Haar, durchdringende Augen",
+      "timestamp": "2025-01-27T10:30:20.000Z"
+    },
+    {
+      "questionId": 6,
+      "answer": 8,
+      "timestamp": "2025-01-27T10:30:25.000Z"
+    },
+    {
+      "questionId": 7,
+      "answer": "Gotisch und Dunkel",
+      "timestamp": "2025-01-27T10:30:30.000Z"
+    },
+    {
+      "questionId": 8,
+      "answer": "Mysteriös und Grüblerisch",
+      "timestamp": "2025-01-27T10:30:35.000Z"
+    },
+    {
+      "questionId": 9,
+      "answer": 7,
+      "timestamp": "2025-01-27T10:30:40.000Z"
+    },
+    {
+      "questionId": 10,
+      "answer": "Dunkle Magie",
+      "timestamp": "2025-01-27T10:30:45.000Z"
+    },
+    {
+      "questionId": 11,
+      "answer": 6,
+      "timestamp": "2025-01-27T10:30:50.000Z"
+    },
+    {
+      "questionId": 12,
+      "answer": "Moralisch Grau",
+      "timestamp": "2025-01-27T10:30:55.000Z"
+    }
+  ],
+  "language": "de",
+  "timestamp": "2025-01-27T10:31:00.000Z",
+  "sessionId": "session-1706352660000-def456ghi"
+}

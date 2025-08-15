@@ -1,0 +1,67 @@
+{
+  "quizAnswers": [
+    {
+      "questionId": 1,
+      "answer": "Enemies to Lovers",
+      "timestamp": "2025-01-27T10:30:00.000Z"
+    },
+    {
+      "questionId": 2,
+      "answer": "Dark and Mysterious",
+      "timestamp": "2025-01-27T10:30:05.000Z"
+    },
+    {
+      "questionId": 3,
+      "answer": "Protective and Possessive",
+      "timestamp": "2025-01-27T10:30:10.000Z"
+    },
+    {
+      "questionId": 4,
+      "answer": "Tall and Athletic",
+      "timestamp": "2025-01-27T10:30:15.000Z"
+    },
+    {
+      "questionId": 5,
+      "answer": "Dark hair, piercing eyes",
+      "timestamp": "2025-01-27T10:30:20.000Z"
+    },
+    {
+      "questionId": 6,
+      "answer": 8,
+      "timestamp": "2025-01-27T10:30:25.000Z"
+    },
+    {
+      "questionId": 7,
+      "answer": "Gothic and Dark",
+      "timestamp": "2025-01-27T10:30:30.000Z"
+    },
+    {
+      "questionId": 8,
+      "answer": "Mysterious and Brooding",
+      "timestamp": "2025-01-27T10:30:35.000Z"
+    },
+    {
+      "questionId": 9,
+      "answer": 7,
+      "timestamp": "2025-01-27T10:30:40.000Z"
+    },
+    {
+      "questionId": 10,
+      "answer": "Dark Magic",
+      "timestamp": "2025-01-27T10:30:45.000Z"
+    },
+    {
+      "questionId": 11,
+      "answer": 6,
+      "timestamp": "2025-01-27T10:30:50.000Z"
+    },
+    {
+      "questionId": 12,
+      "answer": "Morally Gray",
+      "timestamp": "2025-01-27T10:30:55.000Z"
+    }
+  ],
+  "language": "en",
+  "timestamp": "2025-01-27T10:31:00.000Z",
+  "sessionId": "session-1706352660000-abc123def"
+}

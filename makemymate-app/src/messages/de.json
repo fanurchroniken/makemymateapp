@@ -1,0 +1,248 @@
+{
+  "navigation": {
+    "gallery": "Galerie",
+    "create": "Erstellen",
+    "share": "Teilen",
+    "home": "Startseite",
+    "bookboyfriends": "Bookboyfriends",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz"
+  },
+  "hero": {
+    "title": "Beschwöre deinen perfekten Bookboyfriend",
+    "subtitle": "Triff den, der dich für Sterbliche ruinieren wird",
+    "cta": "Beschwöre deinen Partner jetzt",
+    "randomMate": "Zufälliger Partner"
+  },
+  "gallery": {
+    "title": "Bookboyfriends",
+    "subtitle": "Entdecke Charaktere, die von der Community erstellt wurden",
+    "loadMore": "Mehr Charaktere beschwören",
+    "loading": "Charaktere werden beschworen...",
+    "noCharacters": "Keine Charaktere gefunden",
+    "beFirst": "Sei der Erste, der einen Charakter erstellt!",
+    "exploreCta": "Entdecke mehr Bookboyfriends",
+    "searchPlaceholder": "Suche nach Tags, Stil, Namen…",
+    "searchLabel": "Bookboyfriends durchsuchen"
+  },
+  "credibility": {
+    "counter": "Bookboyfriends zum Leben erweckt"
+  },
+  "steps": {
+    "title": "So funktioniert es",
+    "step1": {
+      "title": "Wähle eine Stimmung",
+      "description": "Wähle deine ästhetischen Vorlieben"
+    },
+    "step2": {
+      "title": "Lass die Magie wirken",
+      "description": "KI erstellt deinen perfekten Charakter"
+    },
+    "step3": {
+      "title": "Beanspruche & teile",
+      "description": "Erhalte deine Charakterkarte sofort"
+    }
+  },
+  "closing": {
+    "title": "Bereit, auserwählt zu werden?",
+    "cta": "Beschwöre jetzt meinen Partner"
+  },
+  "aesthetics": {
+    "title": "WÄHLE DEINE ÄSTHETIK",
+    "subtitle": "Wähle aus unseren sorgfältig gestalteten ästhetischen Stilen, die zu deiner romantischen Vision passen",
+    "royal": {
+      "title": "Königliche Romanze",
+      "description": "Majestätische Höfe und edle Leidenschaft mit goldenen Akzenten und königlichen Settings"
+    },
+    "mystic": {
+      "title": "Mystische Reiche",
+      "description": "Verzauberte Wälder und magische Begegnungen mit ätherischer Schönheit"
+    },
+    "gothic": {
+      "title": "Gotische Majestät",
+      "description": "Dunkle Burgen und verbotene Liebe mit dramatischen Schatten"
+    }
+  },
+  "footer": {
+    "features": "Features",
+    "aesthetics": "Ästhetik",
+    "about": "Über",
+    "brandName": "Make My Mate"
+  },
+  "share": {
+    "text": "Beschwöre deinen perfekten Bookboyfriend bei Make My Mate! ✨",
+    "title": "Make My Mate - Beschwöre deinen perfekten Bookboyfriend",
+    "clipboardMessage": "Share-Text in die Zwischenablage kopiert!",
+    "home": {
+      "title": "Make My Mate - Dein Tor zu magischer Romantik",
+      "text": "Entdecke magische Romantik und Fantasy-Liebe bei Make My Mate! ✨"
+    },
+    "bookboyfriend": {
+      "title": "Make My Mate - Beschwöre deinen perfekten Bookboyfriend",
+      "text": "Erstelle deinen perfekten Fantasy-Liebhaber mit KI bei Make My Mate! ✨"
+    },
+    "bookmate": {
+      "title": "Make My Mate - Tritt der Bookmate Warteliste bei",
+      "text": "Sei unter den Ersten, die deinen perfekten Lesebegleiter entdecken! ✨"
+    },
+    "gallery": {
+      "title": "Make My Mate - Entdecke die Bookboyfriends Galerie",
+      "text": "Entdecke erstaunliche Fantasy-Charaktere, die von der Community erstellt wurden! ✨"
+    }
+  },
+  "character": {
+    "overview": "Übersicht",
+    "details": "Details",
+    "personality": "Details - Persönlichkeit",
+    "appearance": "Details - Aussehen",
+    "background": "Details - Hintergrund",
+    "notFound": "Charakter nicht gefunden. Dieser Charakter wurde möglicherweise gelöscht oder der Link ist ungültig.",
+    "share": "Charakter teilen",
+    "sharing": "Teile...",
+    "download": "Herunterladen",
+    "createNew": "Neuen Charakter erstellen",
+    "backToHome": "Zurück zur Startseite",
+    "traits": "Charaktermerkmale",
+    "quizResults": "Deine Quiz-Ergebnisse",
+    "total": "Gesamt"
+  },
+  "quiz": {
+    "start": "Quiz starten",
+    "next": "Nächste Frage",
+    "previous": "Zurück",
+    "finish": "Quiz beenden",
+    "completed": "Quiz abgeschlossen!",
+    "congratulations": "Glückwunsch! Du hast das Charakter-Quiz abgeschlossen.",
+    "analyzing": "Wir analysieren jetzt deine Antworten, um deinen perfekten Partner zu erstellen.",
+    "takeAgain": "Quiz wiederholen",
+    "backToHome": "Zurück zur Startseite",
+    "nextStep": "Nächster Schritt: Charaktergenerierung und Bilderstelleung kommen bald!",
+    "loading": "Lade dein Quiz...",
+    "preparing": "Bereite deine personalisierte Charaktererstellung vor",
+    "error": "Ups! Etwas ist schiefgelaufen",
+    "tryAgain": "Erneut versuchen",
+    "discoverTitle": "Entdecke deinen perfekten Partner",
+    "discoverSubtitle": "Begib dich auf eine Reise durch {count} sorgfältig gestaltete Fragen, um deinen idealen romantischen Fantasiecharakter zu enthüllen.",
+    "discoverDescription": "Von Persönlichkeitsmerkmalen bis hin zu ästhetischen Vorlieben werden wir die perfekte Übereinstimmung für dein Herz finden."
+  },
+  "section": {
+    "character": {
+      "title": "Charakter & Tropes",
+      "description": "Entdecke deine romantischen Vorlieben und Beziehungsdynamiken"
+    },
+    "appearance": {
+      "title": "Aussehen & Vibe",
+      "description": "Erkunde deine ästhetischen Vorlieben und visuelle Anziehung"
+    },
+    "redflags": {
+      "title": "Rote Flaggen & Moralische Dilemmas",
+      "description": "Navigiere Grenzen, emotionale Komplexität und dunkle Themen"
+    }
+  },
+  "progress": {
+    "overall": "Gesamtfortschritt",
+    "section": "Fortschritt"
+  },
+  "common": {
+    "loading": "Lädt...",
+    "error": "Fehler",
+    "success": "Erfolg",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "close": "Schließen",
+    "yes": "Ja",
+    "no": "Nein",
+    "ok": "OK",
+    "like": "Gefällt mir",
+    "liked": "Gefällt mir!"
+  },
+  "hub": {
+    "title": "Make My Mate",
+    "subtitle": "Dein Tor zu magischer Romantik und Fantasy-Liebe",
+    "chooseAdventure": "Wähle dein Abenteuer",
+    "adventureSubtitle": "Entdecke das perfekte Tool, um deine romantischen Fantasien zum Leben zu erwecken"
+  },
+  "tools": {
+    "bookboyfriend": {
+      "title": "Bookboyfriend Generator",
+      "description": "Erstelle deinen perfekten Fantasy-Liebhaber mit unserem KI-gestützten Charaktergenerator. Beantworte intime Fragen und sieh zu, wie dein Traumpartner zum Leben erwacht.",
+      "features": {
+        "ai": "KI Generiert",
+        "personality": "Tiefe Persönlichkeit",
+        "shareable": "Teilbar"
+      },
+      "cta": "Erstelle deinen Partner"
+    },
+    "bookmate": {
+      "title": "Bookmate Finder",
+      "description": "Finde deinen perfekten Lesebegleiter! Entdecke Bücher, die zu deinen romantischen Vorlieben und deinem Lesestil passen.",
+      "features": {
+        "coming": "Erfahre mehr",
+        "matching": "Buch-Matching",
+        "lists": "Leselisten"
+      },
+      "cta": "Erfahre mehr"
+    },
+    "future": {
+      "title": "Mehr Magie kommt",
+      "description": "Wir brauen weitere verzaubernde Tools für deine romantische Reise. Bleib dran für neue Features und Erfahrungen.",
+      "features": {
+        "development": "In Entwicklung",
+        "new": "Neue Features",
+        "tuned": "Bleib dran"
+      },
+      "cta": "Demnächst"
+    }
+  },
+  "waitlist": {
+    "title": "Tritt der Bookmate Warteliste bei",
+    "subtitle": "Sei unter den Ersten, die deinen perfekten Lesebegleiter entdecken",
+    "vision": {
+      "title": "Die Bookmate Vision",
+      "description": "Bookmate wird revolutionieren, wie du Liebesromane entdeckst. Unser KI-gestütztes Matching-System analysiert deine Lesepräferenzen, romantischen Fantasien und emotionalen Trigger, um Bücher zu empfehlen, die wirklich mit deinem Herzen resonieren.",
+      "features": {
+        "title": "Was Bookmate bieten wird:",
+        "personalized": "Personalisierte Buchempfehlungen basierend auf deinen romantischen Vorlieben",
+        "matching": "Fortschrittlicher Matching-Algorithmus, der deine emotionalen Bedürfnisse versteht",
+        "community": "Community-Features für Leser und Autoren zum Vernetzen",
+        "insights": "Lese-Insights und Analytics für Autoren",
+        "early": "Früher Zugang zu Beta-Features und exklusivem Content"
+      }
+    },
+    "form": {
+      "title": "Tritt der Warteliste bei",
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail-Adresse",
+      "roleLabel": "Ich bin ein...",
+      "role": {
+        "reader": "Leser",
+        "author": "Autor"
+      },
+      "consent": "Ich stimme zu, Updates über die Bookmate-Entwicklung und frühe Zugangsmöglichkeiten zu erhalten",
+      "submit": "Warteliste beitreten",
+      "submitting": "Trete bei...",
+      "success": "Willkommen in der Bookmate-Familie! Wir halten dich über unseren Fortschritt auf dem Laufenden.",
+      "error": "Etwas ist schiefgelaufen. Bitte versuche es erneut."
+    },
+    "validation": {
+      "firstName": "Vorname ist erforderlich",
+      "lastName": "Nachname ist erforderlich",
+      "email": "E-Mail-Adresse ist erforderlich",
+      "emailInvalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+      "consent": "Sie müssen zustimmen, Updates zu erhalten"
+    },
+    "stats": {
+      "title": "Schließe dich der Bewegung an",
+      "readers": "Wartende Leser",
+      "authors": "Wartende Autoren",
+      "total": "Gesamte Warteliste"
+    }
+  },
+  "test": {
+    "testing": "Teste...",
+    "testConnection": "Verbindung testen"
+  }
+}

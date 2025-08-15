@@ -1,0 +1,248 @@
+{
+  "navigation": {
+    "gallery": "Gallery",
+    "create": "Create",
+    "share": "Share",
+    "home": "Home",
+    "bookboyfriends": "Bookboyfriends",
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz"
+  },
+  "hero": {
+    "title": "Summon Your Perfect Bookboyfriend",
+    "subtitle": "Meet the one who'll ruin you for mortals",
+    "cta": "Summon Your Mate Now",
+    "randomMate": "Random Mate"
+  },
+  "gallery": {
+    "title": "Bookboyfriends",
+    "subtitle": "Discover characters created by the community",
+    "loadMore": "Summon More Characters",
+    "loading": "Summoning characters...",
+    "noCharacters": "No characters found",
+    "beFirst": "Be the first to create a character!",
+    "exploreCta": "Explore more bookboyfriends",
+    "searchPlaceholder": "Search by tags, style, name…",
+    "searchLabel": "Search bookboyfriends"
+  },
+  "credibility": {
+    "counter": "bookboyfriends brought to life"
+  },
+  "steps": {
+    "title": "How It Works",
+    "step1": {
+      "title": "Choose a vibe",
+      "description": "Select your aesthetic preferences"
+    },
+    "step2": {
+      "title": "Let the magic work",
+      "description": "AI creates your perfect character"
+    },
+    "step3": {
+      "title": "Claim & share",
+      "description": "Get your character card instantly"
+    }
+  },
+  "closing": {
+    "title": "Ready to be chosen?",
+    "cta": "Summon My Mate Now"
+  },
+  "aesthetics": {
+    "title": "CHOOSE YOUR AESTHETIC",
+    "subtitle": "Select from our carefully crafted aesthetic styles to match your romantic vision",
+    "royal": {
+      "title": "Royal Romance",
+      "description": "Majestic courts and noble passion with golden accents and regal settings"
+    },
+    "mystic": {
+      "title": "Mystic Realms",
+      "description": "Enchanted forests and magical encounters with ethereal beauty"
+    },
+    "gothic": {
+      "title": "Gothic Majesty",
+      "description": "Dark castles and forbidden love with dramatic shadows"
+    }
+  },
+  "footer": {
+    "features": "Features",
+    "aesthetics": "Aesthetics",
+    "about": "About",
+    "brandName": "Make My Mate"
+  },
+  "share": {
+    "text": "Summon Your Perfect Bookboyfriend at Make My Mate! ✨",
+    "title": "Make My Mate - Summon Your Perfect Bookboyfriend",
+    "clipboardMessage": "Share text copied to clipboard!",
+    "home": {
+      "title": "Make My Mate - Your Gateway to Magical Romance",
+      "text": "Discover magical romance and fantasy love at Make My Mate! ✨"
+    },
+    "bookboyfriend": {
+      "title": "Make My Mate - Summon Your Perfect Bookboyfriend",
+      "text": "Create your perfect fantasy lover with AI at Make My Mate! ✨"
+    },
+    "bookmate": {
+      "title": "Make My Mate - Join the Bookmate Waitlist",
+      "text": "Be among the first to discover your perfect reading companion! ✨"
+    },
+    "gallery": {
+      "title": "Make My Mate - Explore Bookboyfriends Gallery",
+      "text": "Discover amazing fantasy characters created by the community! ✨"
+    }
+  },
+  "character": {
+    "overview": "Overview",
+    "details": "Details",
+    "personality": "Details - Personality",
+    "appearance": "Details - Appearance",
+    "background": "Details - Background",
+    "notFound": "Character not found. This character may have been deleted or the link is invalid.",
+    "share": "Share Character",
+    "sharing": "Sharing...",
+    "download": "Download",
+    "createNew": "Create New Character",
+    "backToHome": "Back to Home",
+    "traits": "Character Traits",
+    "quizResults": "Your Quiz Results",
+    "total": "Total"
+  },
+  "quiz": {
+    "start": "Start Quiz",
+    "next": "Next Question",
+    "previous": "Previous",
+    "finish": "Finish Quiz",
+    "completed": "Quiz Completed!",
+    "congratulations": "Congratulations! You've completed the character quiz.",
+    "analyzing": "We're now analyzing your answers to create your perfect mate.",
+    "takeAgain": "Take Quiz Again",
+    "backToHome": "Back to Home",
+    "nextStep": "Next step: Character generation and image creation coming soon!",
+    "loading": "Loading Your Quiz...",
+    "preparing": "Preparing your personalized character creation experience",
+    "error": "Oops! Something went wrong",
+    "tryAgain": "Try Again",
+    "discoverTitle": "Discover Your Perfect Mate",
+    "discoverSubtitle": "Embark on a journey through {count} carefully crafted questions to reveal your ideal romantic fantasy character.",
+    "discoverDescription": "From personality traits to aesthetic preferences, we'll uncover the perfect match for your heart."
+  },
+  "section": {
+    "character": {
+      "title": "Character & Tropes",
+      "description": "Discover your romantic preferences and relationship dynamics"
+    },
+    "appearance": {
+      "title": "Appearance & Vibe",
+      "description": "Explore your aesthetic preferences and visual attraction"
+    },
+    "redflags": {
+      "title": "Red Flags & Moral Dilemmas",
+      "description": "Navigate boundaries, emotional complexity, and dark themes"
+    }
+  },
+  "progress": {
+    "overall": "Overall Progress",
+    "section": "Progress"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "close": "Close",
+    "yes": "Yes",
+    "no": "No",
+    "ok": "OK",
+    "like": "Like",
+    "liked": "Liked!"
+  },
+  "hub": {
+    "title": "Make My Mate",
+    "subtitle": "Your gateway to magical romance and fantasy love",
+    "chooseAdventure": "Choose Your Adventure",
+    "adventureSubtitle": "Discover the perfect tool to bring your romantic fantasies to life"
+  },
+  "tools": {
+    "bookboyfriend": {
+      "title": "Bookboyfriend Generator",
+      "description": "Create your perfect fantasy lover with our AI-powered character generator. Answer intimate questions and watch your dream partner come to life.",
+      "features": {
+        "ai": "AI Generated",
+        "personality": "Deep Personality",
+        "shareable": "Shareable"
+      },
+      "cta": "Create Your Mate"
+    },
+    "bookmate": {
+      "title": "Bookmate Finder",
+      "description": "Find your perfect reading companion! Discover books that match your romantic preferences and reading style.",
+      "features": {
+        "coming": "Find out moren",
+        "matching": "Book Matching",
+        "lists": "Reading Lists"
+      },
+      "cta": "Find out more"
+    },
+    "future": {
+      "title": "More Magic Coming",
+      "description": "We're brewing more enchanting tools for your romantic journey. Stay tuned for new features and experiences.",
+      "features": {
+        "development": "In Development",
+        "new": "New Features",
+        "tuned": "Stay Tuned"
+      },
+      "cta": "Coming Soon"
+    }
+  },
+  "waitlist": {
+    "title": "Join the Bookmate Waitlist",
+    "subtitle": "Be among the first to discover your perfect reading companion",
+    "vision": {
+      "title": "The Bookmate Vision",
+      "description": "Bookmate will revolutionize how you discover romance novels. Our AI-powered matching system will analyze your reading preferences, romantic fantasies, and emotional triggers to recommend books that will truly resonate with your heart.",
+      "features": {
+        "title": "What Bookmate Will Offer:",
+        "personalized": "Personalized book recommendations based on your romantic preferences",
+        "matching": "Advanced matching algorithm that understands your emotional needs",
+        "community": "Community features for readers and authors to connect",
+        "insights": "Reading insights and analytics for authors",
+        "early": "Early access to beta features and exclusive content"
+      }
+    },
+    "form": {
+      "title": "Join the Waitlist",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "roleLabel": "I am a...",
+      "role": {
+        "reader": "Reader",
+        "author": "Author"
+      },
+      "consent": "I agree to receive updates about Bookmate development and early access opportunities",
+      "submit": "Join Waitlist",
+      "submitting": "Joining...",
+      "success": "Welcome to the Bookmate family! We'll keep you updated on our progress.",
+      "error": "Something went wrong. Please try again."
+    },
+    "validation": {
+      "firstName": "First name is required",
+      "lastName": "Last name is required",
+      "email": "Email address is required",
+      "emailInvalid": "Please enter a valid email address",
+      "consent": "You must agree to receive updates"
+    },
+    "stats": {
+      "title": "Join the Movement",
+      "readers": "Readers Waiting",
+      "authors": "Authors Waiting",
+      "total": "Total Waitlist"
+    }
+  },
+  "test": {
+    "testing": "Testing...",
+    "testConnection": "Test Connection"
+  }
+}
