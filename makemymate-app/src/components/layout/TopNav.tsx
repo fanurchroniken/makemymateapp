@@ -97,7 +97,7 @@ export function TopNav() {
       <div className="container mx-auto px-4 py-4">
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center space-x-3">
-            <Crown className="w-8 h-8 gradient-text royal-glow" />
+            <img src="/logo-symbol.png" alt="Make My Mate" className="w-8 h-8 royal-glow" />
             <h1 className="text-2xl md:text-3xl font-cinzel tracking-wide gradient-text text-glow">{t('footer.brandName')}</h1>
           </Link>
           <div className="flex items-center space-x-4">

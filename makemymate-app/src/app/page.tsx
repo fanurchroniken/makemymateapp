@@ -49,6 +49,10 @@ export default function Home() {
 
         {/* Main Content */}
         <div className="relative z-10 text-center px-4 max-w-5xl mx-auto">
+          {/* Brand Logo */}
+          <div className="flex justify-center mb-8">
+            <img src="/logo-symbol.png" alt="Make My Mate" className="w-24 h-24 drop-shadow-[0_0_20px_rgba(236,72,153,0.35)]" />
+          </div>
           {/* Decorative Top Element */}
           <div className="flex justify-center mb-6">
             <div className="flex items-center space-x-4">
@@ -61,7 +65,7 @@ export default function Home() {
               <div className="w-12 h-0.5 bg-gradient-to-l from-transparent to-amber-400" />
             </div>
           </div>
-
+          
           {/* Main Headline with Romantic Font */}
           <div className="mb-12">
             <h1 className="text-5xl md:text-7xl lg:text-8xl font-romantic gradient-text leading-none tracking-wide mb-8">
@@ -278,7 +282,7 @@ export default function Home() {
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
-              <Crown className="w-6 h-6 gradient-text royal-glow" />
+              <img src="/logo-symbol.png" alt="Make My Mate" className="w-6 h-6" />
               <span className="text-white font-cinzel">{t('footer.brandName')}</span>
             </div>
             <div className="flex space-x-6" />
