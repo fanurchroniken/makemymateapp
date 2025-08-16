@@ -210,16 +210,8 @@ export default function CharacterPage() {
       <TopNav />
       <div className="container mx-auto px-4 py-8">
         <div className="w-full max-w-7xl mx-auto">
-          {/* Header */}
-          <div className="mb-8 flex justify-between items-center">
-            <Link href="/">
-              <Button variant="outline" className="hover:border-amber-400 hover:text-amber-400">
-                <ArrowLeft className="w-4 h-4 mr-2" />
-                {t('quiz.backToHome')}
-              </Button>
-            </Link>
-            
-            {/* Stats */}
+          {/* Stats */}
+          <div className="mb-8 flex justify-end items-center">
             <div className="flex items-center space-x-4 text-slate-400">
               <div className="flex items-center space-x-1">
                 <Eye className="w-4 h-4" />

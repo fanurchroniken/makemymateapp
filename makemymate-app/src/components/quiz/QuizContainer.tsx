@@ -201,7 +201,7 @@ export function QuizContainer({ onComplete }: QuizContainerProps) {
             </p>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left">
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-left hidden md:grid">
             <div className="space-y-2">
               <div className="flex items-center space-x-2">
                 <span className="text-2xl">🧛‍♂️</span>
@@ -249,11 +249,13 @@ export function QuizContainer({ onComplete }: QuizContainerProps) {
       </div>
 
       {/* Progress Bar */}
-      <ProgressBar
-        currentSection={currentSection}
-        sectionProgress={sectionProgress}
-        totalProgress={totalProgress}
-      />
+      <div className="hidden md:block">
+        <ProgressBar
+          currentSection={currentSection}
+          sectionProgress={sectionProgress}
+          totalProgress={totalProgress}
+        />
+      </div>
 
       {/* Question Card */}
       {currentQuestion && (

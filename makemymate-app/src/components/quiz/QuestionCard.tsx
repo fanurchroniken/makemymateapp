@@ -56,7 +56,7 @@ export function QuestionCard({
         {/* Question Header */}
         <div className="text-center space-y-2">
           <div className="text-sm text-amber-400 font-medium">
-            Question {questionNumber} of {totalQuestions}
+            {t('quiz.questionProgress').replace('{current}', questionNumber.toString()).replace('{total}', totalQuestions.toString())}
           </div>
           <h2 className="text-xl md:text-2xl font-cinzel text-white leading-relaxed">
             {question.question}

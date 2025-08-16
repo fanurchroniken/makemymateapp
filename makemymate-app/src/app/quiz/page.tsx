@@ -105,7 +105,7 @@ export default function QuizPage() {
               <Link href="/">
                 <Button variant="outline" className="hover:border-amber-400 hover:text-amber-400">
                   <ArrowLeft className="w-4 h-4 mr-2" />
-                  {t('quiz.backToHome')}
+                  {t('character.backToHome')}
                 </Button>
               </Link>
             </div>
@@ -227,7 +227,7 @@ export default function QuizPage() {
           <Link href="/">
             <Button variant="outline" className="hover:border-amber-400 hover:text-amber-400 mb-4">
               <ArrowLeft className="w-4 h-4 mr-2" />
-              {t('quiz.backToHome')}
+              {t('character.backToHome')}
             </Button>
           </Link>
         </div>

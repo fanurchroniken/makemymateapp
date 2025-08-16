@@ -311,10 +311,10 @@ export default function BookmateWaitlistPage() {
                   <h3 className="text-xl font-cinzel text-white">
                     {t('waitlist.form.success')}
                   </h3>
-                  <Link href="/" className="inline-block">
-                                         <button className="dark-glam-button">
-                       {t('quiz.backToHome')}
-                     </button>
+                  <Link href="/">
+                    <button className="dark-glam-button">
+                      {t('character.backToHome')}
+                    </button>
                   </Link>
                 </div>
               ) : (

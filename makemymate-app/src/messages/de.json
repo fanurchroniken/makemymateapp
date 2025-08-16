@@ -107,23 +107,16 @@
     "total": "Gesamt"
   },
   "quiz": {
+    "discoverTitle": "Entdecke deinen perfekten Buchfreund",
+    "discoverSubtitle": "Beantworte {count} Fragen, um deinen idealen Fantasy-Charakter zu erstellen",
+    "discoverDescription": "Unsere KI wird basierend auf deinen Vorlieben einen einzigartigen Charakter erstellen und eine personalisierte romantische Erfahrung nur für dich schaffen.",
     "start": "Quiz starten",
-    "next": "Nächste Frage",
+    "loading": "Fragen werden geladen...",
+    "error": "Fragen konnten nicht geladen werden. Bitte versuche es erneut.",
+    "questionProgress": "Frage {current} von {total}",
+    "next": "Weiter",
     "previous": "Zurück",
-    "finish": "Quiz beenden",
-    "completed": "Quiz abgeschlossen!",
-    "congratulations": "Glückwunsch! Du hast das Charakter-Quiz abgeschlossen.",
-    "analyzing": "Wir analysieren jetzt deine Antworten, um deinen perfekten Partner zu erstellen.",
-    "takeAgain": "Quiz wiederholen",
-    "backToHome": "Zurück zur Startseite",
-    "nextStep": "Nächster Schritt: Charaktergenerierung und Bilderstelleung kommen bald!",
-    "loading": "Lade dein Quiz...",
-    "preparing": "Bereite deine personalisierte Charaktererstellung vor",
-    "error": "Ups! Etwas ist schiefgelaufen",
-    "tryAgain": "Erneut versuchen",
-    "discoverTitle": "Entdecke deinen perfekten Partner",
-    "discoverSubtitle": "Begib dich auf eine Reise durch {count} sorgfältig gestaltete Fragen, um deinen idealen romantischen Fantasiecharakter zu enthüllen.",
-    "discoverDescription": "Von Persönlichkeitsmerkmalen bis hin zu ästhetischen Vorlieben werden wir die perfekte Übereinstimmung für dein Herz finden."
+    "complete": "Quiz abschließen"
   },
   "section": {
     "character": {

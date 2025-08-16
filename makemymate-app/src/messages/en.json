@@ -107,23 +107,16 @@
     "total": "Total"
   },
   "quiz": {
-    "start": "Start Quiz",
-    "next": "Next Question",
+    "discoverTitle": "Discover Your Perfect Bookboyfriend",
+    "discoverSubtitle": "Answer {count} questions to create your ideal fantasy character",
+    "discoverDescription": "Our AI will craft a unique character based on your preferences, creating a personalized romantic experience just for you.",
+    "start": "Start the Quiz",
+    "loading": "Loading questions...",
+    "error": "Failed to load questions. Please try again.",
+    "questionProgress": "Question {current} of {total}",
+    "next": "Next",
     "previous": "Previous",
-    "finish": "Finish Quiz",
-    "completed": "Quiz Completed!",
-    "congratulations": "Congratulations! You've completed the character quiz.",
-    "analyzing": "We're now analyzing your answers to create your perfect mate.",
-    "takeAgain": "Take Quiz Again",
-    "backToHome": "Back to Home",
-    "nextStep": "Next step: Character generation and image creation coming soon!",
-    "loading": "Loading Your Quiz...",
-    "preparing": "Preparing your personalized character creation experience",
-    "error": "Oops! Something went wrong",
-    "tryAgain": "Try Again",
-    "discoverTitle": "Discover Your Perfect Mate",
-    "discoverSubtitle": "Embark on a journey through {count} carefully crafted questions to reveal your ideal romantic fantasy character.",
-    "discoverDescription": "From personality traits to aesthetic preferences, we'll uncover the perfect match for your heart."
+    "complete": "Complete Quiz"
   },
   "section": {
     "character": {

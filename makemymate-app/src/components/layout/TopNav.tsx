@@ -62,12 +62,31 @@ export function TopNav() {
           text: shareText,
           url: shareInfo.url
         })
-      } else {
+      } else if (navigator.clipboard && navigator.clipboard.writeText) {
+        // Modern clipboard API
         await navigator.clipboard.writeText(shareText)
         alert(t('share.clipboardMessage'))
+      } else {
+        // Fallback for older browsers
+        const textArea = document.createElement('textarea')
+        textArea.value = shareText
+        document.body.appendChild(textArea)
+        textArea.select()
+        try {
+          document.execCommand('copy')
+          alert(t('share.clipboardMessage'))
+        } catch (err) {
+          console.error('Fallback copy failed:', err)
+          alert('Share text: ' + shareText)
+        }
+        document.body.removeChild(textArea)
       }
     } catch (e) {
-      console.error(e)
+      console.error('Share error:', e)
+      // Fallback: show the text to copy manually
+      const shareInfo = getShareInfo()
+      const shareText = `${shareInfo.text}\n\n${shareInfo.url}\n\n#MakeMyMate #FantasyCharacter #Romance`
+      alert('Copy this text to share:\n\n' + shareText)
     } finally {
       setIsSharing(false)
     }
@@ -101,5 +120,6 @@ export function TopNav() {
 }
 
 export default TopNav
+
 
 
